@@ -21,7 +21,7 @@ When engineering this block, I focused on building a seamless, native editing ex
 ## 🚀 Installation & Testing
 1. Download the `.zip` file from the releases or clone this repository.
 2. Run `npm install` and `npm run build` to compile the assets.
-3. Upload to the `/wp-content/plugins/` directory of your local WordPress environment.
+3. Upload to the `/wp-content/plugins/` directory of your WordPress environment.
 4. Activate the plugin through the WordPress admin dashboard.
 
 ---
