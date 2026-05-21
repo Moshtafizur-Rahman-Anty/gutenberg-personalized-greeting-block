@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "create-block/personalized-greeting",
+  "version": "0.1.0",
+  "title": "Personalized Greeting",
+  "category": "widgets",
+  "icon": "edit",
+  "description": "Example block scaffolded with Create Block tool.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "greetingMessage": {
+      "type": "string",
+      "default": "Welcome to the post!"
+    }
+  },
+  "textdomain": "personalized-greeting",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScript": "file:./view.js"
+}
