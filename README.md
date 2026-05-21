@@ -4,7 +4,7 @@
 
 [![Watch the Video](https://img.shields.io/badge/YouTube-Watch_How_I_Built_This-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fNtTpy7gp4k)
 
-## Development Approach
+## 🏗️ Development Approach
 
 When engineering this block, I focused on building a seamless, native editing experience while maintaining strict data integrity:
 
