@@ -26,7 +26,6 @@ When engineering this block, I focused on building a seamless, native editing ex
 
 ---
 ### 👨‍💻 About the Developer
-*This repository is part of my 2026 Advanced WordPress Engineering Portfolio.* 
 
 **Moshtafizur Rahman**  
 WordPress & WooCommerce Developer | Remote European Experience  
