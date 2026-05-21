@@ -6,7 +6,7 @@
 
 ## 🏗️ Development Approach
 
-When engineering this block, I focused on building a seamless, native editing experience while maintaining strict data integrity:
+When making this block, I focused on building a seamless, native editing experience while maintaining strict data integrity:
 
 * **Native Inline Editing:** Instead of forcing the user to type the greeting into a clunky sidebar text box, I utilized the WordPress `@wordpress/block-editor` `<RichText>` component. This allows the user to click and type directly onto the block canvas for a true WYSIWYG experience.
 * **Real-Time State Management:** The React UI captures every keystroke via the `onChange` handler and instantly updates the `greetingName` attribute using `setAttributes`. 
